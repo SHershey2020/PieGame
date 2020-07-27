@@ -1,0 +1,51 @@
+body{
+    background-color: #00cccc;
+    text-align: center;
+}
+
+h1{
+    color: #ffe6ff;
+    text-align: center;
+    font-family: 'Rammetto One', cursive;
+    font-weight: normal;
+    font-size: 52px;
+}
+
+.pie{
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    display:inline-block;
+    border: 3px dotted slategray;
+    background-color: white;
+    background-image: url('pie.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+p{
+    color: #ffe6ff;
+    text-align: center;
+    font-family: 'Rammetto One', cursive;
+    font-weight: normal;
+    font-size: 12px;
+}
+.btnwrap{
+  text-align: center;
+}
+h3{
+    font-family: 'Bubblegum Sans', cursive;
+    font-weight: normal;
+}
+
+h3{
+    font-size:36;
+}
+
+a{
+    font-size:40px;
+    color:black;
+}
+
+
+
+  
